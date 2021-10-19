@@ -13,4 +13,4 @@ The main goal of our lab is to understand and manipulate biomolecular dynamics b
 
 Examples of our interested research areas include elucidation of functional conformational changes in gene transcription, elucidation of molecular recognition and self-assembly, development of Markov State Model and Generalized Master Equation model for biomolecular dynamics, development of Integral Equation theories for solvation, and development of deep learning methods to predict protein-ligand and protein-RNA interaction.
 
-Find more about us at our [group page](https://huang.wiscweb.wisc.edu/).
+Find more about us at our [group page](https://huang.chem.wisc.edu/).
